@@ -1,0 +1,5 @@
+# Windows Python 실행 환경 만들기
+
+  - 참조 링크 : https://tree-saver-20c.notion.site/Windows-Python-159bd185f4db80d49646c4cca2c4c71b
+  
+  

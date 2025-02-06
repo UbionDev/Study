@@ -1,0 +1,2 @@
+# [강화학습] - V & Q & Optimal policy
+	- 참조 링크 : https://www.notion.so/V-Q-Optimal-policy-170fcc2d1c6880f0a644f5fbe9a97d79?pvs=4

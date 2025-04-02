@@ -1,2 +1,2 @@
 # [MediaPipe] - Colab에서 모델 학습
-	- 참조 링크 : https://www.notion.so/MediaPipe-Colab-15ffcc2d1c688012ad15cb33811b6d19?pvs=4
+	- 참조 링크 : https://harsh-fibula-2f6.notion.site/MediaPipe-Colab-15ffcc2d1c688012ad15cb33811b6d19?pvs=73

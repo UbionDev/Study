@@ -1,2 +1,2 @@
 # [딥코] - 총알 피하기 게임
-	- 참조 링크 : https://www.notion.so/14ffcc2d1c68804687d3e78c86d23567?pvs=4
+	- 참조 링크 : https://harsh-fibula-2f6.notion.site/14ffcc2d1c68804687d3e78c86d23567

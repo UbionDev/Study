@@ -1,2 +1,4 @@
 # [강화학습] - Q Learning
-	- 참조 링크 : https://www.notion.so/Q-Learning-159fcc2d1c68803d874ad3b6a44632fb?pvs=4
+	- 참조 링크 : https://harsh-fibula-2f6.notion.site/Q-Learning-159fcc2d1c68803d874ad3b6a44632fb?pvs=73
+
+
